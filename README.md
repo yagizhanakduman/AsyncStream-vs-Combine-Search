@@ -74,5 +74,3 @@ Try typing:
 - iOS 15+
 - Swift 5.7+
 - Xcode 14+
-
----
